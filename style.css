@@ -1,0 +1,57 @@
+body{
+    font-size: x-large;
+}
+
+#index-topic{
+    text-decoration: underline;
+    text-align: center;
+}
+h1.topics{
+    font-family: sans-serif;
+    letter-spacing: 2px;
+    text-align: center;
+    border-style: outset;
+    border-radius: 10px 10px 10px 10px;}
+    
+
+table.text{
+    margin-left: auto;
+    margin-right: auto;
+    width: 600px;
+    padding: 10px 10px 10px 0px;
+    letter-spacing:normal;
+    text-align:left;
+    text-transform:none;}
+    
+th,td{
+    border: 1px solid black;}
+    
+
+.table-head {
+    background-color: rgb(0, 255, 76);
+}
+
+tr.even{
+    background-color: gray;
+}
+
+ol.list{
+    list-style-type:decimal;
+    list-style-position:outside;}
+
+a:link{
+    color: blue;
+    text-decoration:underline;}
+
+a:hover{
+    color: red;}
+
+a:visited{
+    color: red;}
+
+
+
+
+
+
+
